@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+My CV in pdf format is available [here](https://sabrinafowler.github.io/files/cv.pdf).
 
 Education
 ======
