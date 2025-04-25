@@ -26,10 +26,10 @@ author:
   name             : "Sabrina Fowler"
   pronouns         : # "she/her"  
   bio              : "Mathematics PhD Candidate"
-  location         : "Lincoln, Nebraska"
-  employer         : # "University of Nebraska - Lincoln"
+  location         : "Avery Hall 232"
+  employer         : "Univ. of Nebraska-Lincoln"
   uri              : # URL
-  email            : "mailto:sfowler14@unl.edu" 
+  email            : # "mailto:sfowler14@unl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
