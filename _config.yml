@@ -29,7 +29,7 @@ author:
   location         : "Lincoln, Nebraska"
   employer         : # "University of Nebraska - Lincoln"
   uri              : # URL
-  email            : "sfowler14@unl.edu" 
+  email            : "mailto:sfowler14@unl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
