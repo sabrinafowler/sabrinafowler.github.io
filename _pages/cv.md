@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV in pdf format is available [here](https://sabrinafowler.github.io/files/cv.pdf).
+Here is the most recent version of my [CV](https://sabrinafowler.github.io/files/cv.pdf), last updated February 27, 2025.
