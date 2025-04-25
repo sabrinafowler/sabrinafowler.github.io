@@ -9,12 +9,13 @@ author_profile: true
 
 I was a Graduate Teaching Assistant at Missouri State University (MSU) from Fall 2019 - Spring 2021. I have been a Graduate Teaching Assistant at University of Nebraska-Lincoln (UNL) since Fall 2021.
 
-#### Instructor of Record
+### Instructor of Record
 * Math 102: College Trigonometry (UNL)
   * Spring 2023, Fall 2023, Spring 2024
 * Math 101: College Algebra (UNL)
   * Summer 2022, Fall 2022
-#### Recitation/Lab Instructor
+    
+### Recitation/Lab Instructor
 * Math 314: Linear Algebra (UNL)
   * Fall 2024
 * Math 106: Calculus I (UNL)
