@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "websiteimg.jpeg"
   name             : "Sabrina Fowler"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Mathematics PhD Candidate"
   location         : "Lincoln, Nebraska"
-  employer         : "University of Nebraska - Lincoln"
+  employer         : # "University of Nebraska - Lincoln"
   uri              : # URL
   email            : "sfowler14@unl.edu" 
 
