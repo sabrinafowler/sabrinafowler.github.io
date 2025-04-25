@@ -5,19 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-Research Interests
-======
+### Research Interests
 I have been working on developing my skills with various commutative algebra and algebraic geometry tools such as symbolic powers of ideals, Gröbner bases, and sheaf theory. I hope to use these tools to solve problems in areas such as mathematical neuroscience and topological data analysis.
 
-Seminars Attended
-======
+### Seminars Attended
 I am currently regularly attending the following seminars at University of Nebraska-Lincoln
   * Commutative Algebra Seminar (CAS)
   * Commutative Algebra Reading Seminar (CARS)
   * Matemáticas
 
-Conferences/Workshops Attended
-======
+### Conferences/Workshops Attended
   * Women in Commutative Algebra - Fields Institute (2025)
   * KUMUNU - University of Missouri (2024)
   * Recent Developments in Commutative Algebra - SLMath (formerly MSRI) 2024
