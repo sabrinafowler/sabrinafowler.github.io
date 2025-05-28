@@ -10,7 +10,9 @@ I have been working on developing my skills with various commutative algebra and
 
 My current research questions include
 > What can be learned about a neural code by computing the multigraded Betti numbers of the corresponding polarized neural ideal via Hochster's Formula?
+
 > Can we translate Hochster's formula to compute Betti numbers by using combinatorial properties of the neural code?
+
 > What is the relationship between polarized neural ideals whose codes induce the same simplicial complex?
 
 ### Seminars Attended
