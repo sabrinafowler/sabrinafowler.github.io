@@ -13,7 +13,7 @@ My current research questions include
 
 > Can we translate Hochster's formula to compute Betti numbers by using combinatorial properties of the neural code?
 
-> What is the relationship between polarized neural ideals whose codes induce the same simplicial complex?
+> How can we connect Stanley-Reisner ideals and neural ideals to neural network architectures?
 
 ### Seminars Attended
 I am currently regularly attending the following seminars at University of Nebraska-Lincoln
