@@ -9,11 +9,9 @@ author_profile: true
 I have been working on developing my skills with various commutative algebra and algebraic geometry tools such as symbolic powers of ideals, Gröbner bases, and sheaf theory. I hope to use these tools to solve problems in areas such as mathematical neuroscience and topological data analysis.
 
 My current research questions include
-> What can be learned about a neural code by computing the multigraded Betti numbers of the corresponding polarized neural ideal via Hochster's Formula?
+> What can be learned about a neural code by computing the multigraded Betti numbers of the corresponding polarized neural ideal?
 
-> Can we translate Hochster's formula to compute Betti numbers by using combinatorial properties of the neural code?
-
-> How can we connect Stanley-Reisner ideals and neural ideals to neural network architectures?
+> How can we connect neural ideals to neural network architectures?
 
 ### Seminars Attended
 I am currently regularly attending the following seminars at University of Nebraska-Lincoln
