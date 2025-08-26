@@ -27,3 +27,10 @@ I am currently regularly attending the following seminars at University of Nebra
   * Gender Equity in the Mathematical Study (GEMS) of Commutative Algebra - University of Minnesota (2023)
   * Math 125 - University of Nebraska-Lincoln (2023)
   * Nebraska Conference for Undergraduate Women in Mathematics - University of Nebraska-Lincoln (2019)
+
+### Friends and Colleagues
+  * [Juliann Geraci](https://julianngeraci.github.io)
+  * [Sara Mueller](saraamue.github.io)
+  * [Maciej Piwowarczyk](maciejpiwowarczyk.com)
+  * [Petra Lynn Vanderhei](https://brunswick-khorasan.github.io/PLVWeb/)
+
