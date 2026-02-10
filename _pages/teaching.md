@@ -5,29 +5,68 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses I've Taught
+# University of Nebraska-Lincoln
 
-I was a Graduate Teaching Assistant at Missouri State University (MSU) from Fall 2019 - Spring 2021. I have been a Graduate Teaching Assistant at University of Nebraska-Lincoln (UNL) since Fall 2021.
+## Instructor of Record
 
-### Instructor of Record
-* Math 102: College Trigonometry (UNL)
-  * Spring 2023, Fall 2023, Spring 2024
-* Math 101: College Algebra (UNL)
-  * Summer 2022, Fall 2022
-    
-### Recitation/Lab Instructor
-* Math 314: Linear Algebra (UNL)
-  * Fall 2024
-* Math 106: Calculus I (UNL)
-  * Fall 2021, Spring 2022
-* Math 101: Intermediate Algebra (MSU)
-  * Fall 2019 - Spring 2021
- 
-## Teaching Projects
-For the 2023-2024 academic year, I was the Associate Convener for Math 102 - College Trigonometry at UNL. I worked together with the faculty convener to maintain continuity across all sections of the course, as well as provide support for graduate student instructors.
+Math 309: Introduction to Mathematical Proofs (Spring 2026)
 
-In summer 2023, I worked on a couple of curriculum development projects.
+### Responsibilites
 
-I worked on course materials for College Trigonometry, which primarily involved making changes to the Course Packet, which is a workbook for students that includes problems meant to be worked on in groups via active learning. This summer I added fill-in-the-blank style notes pages in addition to the problems, as well as making small changes to existing problems, and writing a few new problems. I also worked on making some small changes to existing WeBWorK problems, as well as writing new ones to go with the new Course Packet problems.
+- Independently design and manage all aspects of course delivery, including creating the syllabus, developing assignments and exams, establishing course policies, and determining grading criteria. 
+- Review and adapt existing course materials from a mentor to fit specific teaching contexts, making strategic decisions about content emphasis and assessment methods. 
+- Hold complete responsibility for course planning, student evaluation, and ensuring learning objectives are met.
 
-Another project I worked on was Curriculum Development and Instruction for the College of Engineering's Summer Bridge Program, a program to help incoming first-year undergraduate Engineering majors succeed in their math courses. The course I worked on was for students who were enrolling in College Algebra in the fall. I worked with a fellow graduate student to develop the curriculum, which consisted of identifying the most important sections and problems from UNL's Intermediate Algebra course to fit into the allotted timeframe. I was also the instructor for this course, which ran for two weeks.
+## Instructor of Record (Convened Course)
+
+Math 203: Contemporary Math (Fall 2025)
+
+Math 102: College Trigonometry (Spring 2023, Fall 2023, Spring 2024)
+
+Math 101: College Algebra (Summer 2022, Fall 2022)
+
+### Responsibilites
+- Served as the primary instructor responsible for delivering course content, evaluating student performance, and assigning final grades while working within an established curriculum framework. 
+- Attended weekly team meetings to maintain consistency across multiple course sections and implemented standardized materials, assignments, and policies. 
+- Adapted teaching approaches to meet diverse student needs while ensuring quality and alignment with program standards.
+
+## Associate Convener
+
+College Trigonometry (Fall 2023 - Spring 2024)
+
+### Responsibilites
+- Collaborated with faculty leadership to ensure consistency and quality across all sections of College Trigonometry. 
+- Provided guidance and support to graduate student instructors, helping them navigate course implementation and address teaching challenges.
+
+
+## Recitation Instructor
+
+Math 314: Linear Algebra (Fall 2024)
+
+Math 106: Calculus I (Fall 2021, Spring 2022)
+
+### Responsibilities
+- Led small-group discussion sections that reinforced and extended material from lectures. 
+- Facilitated active learning by guiding students through problem-solving exercises and classwork, encouraging collaborative exploration of concepts. 
+- Administered and evaluated quizzes and exams, providing timely feedback to help students gauge their progress and identify areas for improvement.
+
+## Projects
+
+### College Trigonometry Course Materials Development (Summer 2023)
+- Redesigned the course workbook to enhance student learning by integrating fill-in-the-blank note pages alongside existing group problem sets. 
+- Revised and created new problems for both the printed workbook and the online homework system, ensuring alignment between in-class activities and independent practice.
+
+### College of Engineering Summer Bridge Program (Summer 2023)
+- Partnered with a colleague to design and deliver a two-week intensive course preparing incoming engineering students for college-level mathematics. 
+- Analyzed the existing Intermediate Algebra curriculum to identify and prioritize essential concepts within a condensed timeframe, then served as lead instructor for program implementation.
+
+
+# Missouri State University
+
+## Lab Instructor
+
+MTH 101: Intermediate Algebra A (Fall 2019, Spring 2020, Fall 2020, Spring 2022)
+
+### Responsibilities
+- Led small-group discussion sections that reinforced and extended material from lectures. 
+- Administered and evaluated quizzes and exams, providing timely feedback to help students gauge their progress and identify areas for improvement.
