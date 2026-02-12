@@ -11,7 +11,7 @@ My research currently focuses on __neural ideals__. A neural ideal is a mathemat
 
 > What can be learned about a neural code by computing the multigraded Betti numbers of the corresponding polarized neural ideal?
 
-> It is possible to construct a neural ideal based on a deep learning (neural network) model. Which properties of this ideal will give us insight into the model?
+> It is possible to construct a neural ideal based on a deep learning model. Which properties of this ideal will give us insight into the model?
 
 ## Seminars
 I am currently regularly attending the following seminars at University of Nebraska-Lincoln
