@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Interests
 
-My research currently focuses on __neural ideals__. A neural ideal is a mathematical objects which encodes neural firing patterns correspondong to a certain configuration of a stimulus space. My current research questions include:
+My research currently focuses on __neural ideals__. A neural ideal is a mathematical objects which encodes neural firing patterns corresponding to a certain configuration of a stimulus space. My current research questions include:
 
 > What can be learned about a neural code by computing the multigraded Betti numbers of the corresponding polarized neural ideal?
 
