@@ -24,12 +24,13 @@ I am currently regularly attending the following seminars at University of Nebra
   * _A Characterization of Polarized Neural Ideals_, CARS, February 11, 2026
   * _La Forma Canónica de los Ideales Neuronales_, Matemáticas, March 23, 2026
 
-## Conferences/Workshops
-  * Women in Commutative Algebra - Fields Institute (2025)
-  * KUMUNU - University of Missouri (2024)
-  * Recent Developments in Commutative Algebra - SLMath (formerly MSRI) 2024
-  * Introductory Workshop: Commutative Algebra - SLMath (formerly MSRI) 2024
-  * Gender Equity in the Mathematical Study (GEMS) of Commutative Algebra - University of Minnesota (2023)
-  * Math 125 - University of Nebraska-Lincoln (2023)
-  * Nebraska Conference for Undergraduate Women in Mathematics - University of Nebraska-Lincoln (2019)
+## Conferences and Workshops
+  * __Women in Commutative Algebra__, _Fields Institute_, 2025
+  * __KUMUNU__, _University of Missouri_, 2024
+  * __Recent Developments in Commutative Algebra__, _SLMath (formerly MSRI)_, 2024
+  * __Introductory Workshop: Commutative Algebra__, _SLMath (formerly MSRI)_, 2024
+  * __Gender Equity in the Mathematical Study (GEMS) of Commutative Algebra__, _University of Minnesota_, 2023
+  * __Math 125__, _University of Nebraska-Lincoln_, 2023
+  * __Nebraska Conference for Undergraduate Women in Mathematics__, _University of Nebraska-Lincoln_, 2019
 
+I served on the organizing committee for the [Nebraska Conference for Undergraduate Women in Mathematics](https://math.unl.edu/ncuwm/) from 2023 to 2025.
