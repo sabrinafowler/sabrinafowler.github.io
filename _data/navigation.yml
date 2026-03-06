@@ -21,8 +21,11 @@ main:
     url: /research/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
+  - title: "Skills & Projects"
+    url: /skills/
+
  # - title: "Portfolio"
  #   url: /portfolio/
         
