@@ -19,7 +19,7 @@ Math 309: Introduction to Mathematical Proofs (Spring 2026)
 
 ## Instructor of Record (Convened Course)
 
-Math 203: Contemporary Math (Fall 2025)
+Math 203: Contemporary Math (Fall 2025, Fall 2026)
 
 Math 102: College Trigonometry (Spring 2023, Fall 2023, Spring 2024)
 
@@ -43,7 +43,7 @@ College Trigonometry (Fall 2023 - Spring 2024)
 
 Math 314: Linear Algebra (Fall 2024)
 
-Math 106: Calculus I (Fall 2021, Spring 2022)
+Math 106: Calculus I (Fall 2021, Spring 2022, Fall 2026)
 
 ### Responsibilities
 - Led small-group discussion sections that reinforced and extended material from lectures. 
