@@ -18,5 +18,5 @@ My PhD thesis is __Counting the Generators of Polarized Neural Ideals__, the mai
 <a href="/files/poster.pdf" target="_blank">
   <img src="/images/poster-thumbnail.jpg" alt="Research poster thumbnail" style="max-width: 300px; border: 1px solid #ccc;">
 </a>
-<p><a href="/files/poster.pdf" download>Download full PDF</a></p>
+<p><a href="/files/poster.pdf" download>View full PDF</a></p>
 
