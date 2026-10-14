@@ -15,6 +15,6 @@ I am passionate about applying mathematical and computational expertise to probl
 
 ### Featured: An Introduction to Gröbner Bases and their Applications
 
-I created this video as an RTG Trainee with [Commutative Algebra at Nebraska](https://nebraskacommalg.github.io), based on a talk I gave as part of my Oral Comprehensive Exam. It demonstrates my ability to communicate complex mathematical concepts to a broad audience.
+I created this video as an RTG Trainee with [Commutative Algebra at Nebraska](https://nebraskacommalg.github.io), based on a talk I gave as part of my Oral Comprehensive Exam. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6asgLa6LnP8?si=T1nU1rYUhOvuh4Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
