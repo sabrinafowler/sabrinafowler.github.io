@@ -7,11 +7,12 @@ author_profile: true
 
 ## Technical Skills
 
-| Category | Details |
-|----------|---------|
-| **Programming** | Python (PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, pandas, NumPy, matplotlib, seaborn), C++, Perl, SQL |
-| **Tools** | Git, HTML, LaTeX |
-| **Mathematical Software** | Macaulay2, Mathematica, MATLAB |
+
+ **Programming:**  Python (PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, pandas, NumPy, matplotlib, seaborn), C++, Perl, SQL 
+ 
+ **Tools:**  Git, HTML, LaTeX 
+
+ **Mathematical Software:**  Macaulay2, Mathematica, MATLAB 
 
 ## Projects
 
