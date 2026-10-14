@@ -15,8 +15,8 @@ In addition to my academic research, I work as a Research Intern at Georgia Tech
 
 My PhD thesis is __Counting the Generators of Polarized Neural Ideals__, the main ideas of which are present in the following poster:
 
-<a href="files/poster.pdf" target="_blank">
+<a href="/files/poster.pdf" target="_blank">
   <img src="/images/poster-thumbnail.jpg" alt="Research poster thumbnail" style="max-width: 300px; border: 1px solid #ccc;">
 </a>
-<p><a href="files/poster.pdf" download>Download full PDF</a></p>
+<p><a href="/files/poster.pdf" download>Download full PDF</a></p>
 
