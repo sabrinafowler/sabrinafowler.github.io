@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mathematics PhD Candidate at the University of Nebraska-Lincoln (expected December 2026), advised by [Eloísa Grifo](https://grifo.github.io). My research focuses on polarized neural ideals, in particular on developing methods to identify which squarefree monomial ideals can and cannot be realized as a neural ideal.
+I am a Mathematics PhD Candidate at the University of Nebraska-Lincoln (expected December 2026), advised by [Eloísa Grifo](https://grifo.github.io). My research focuses on polarized neural ideals, in particular on developing methods to identify which squarefree monomial ideals can be realized as a polarized neural ideal and which ones cannot.
 
 I am also a Research Intern at [Georgia Tech Research Institute](https://www.gtri.gatech.edu/), where I develop machine learning solutions for sponsored defense research programs, including anomaly detection in large-scale network data and deep learning models for classification tasks.
 
